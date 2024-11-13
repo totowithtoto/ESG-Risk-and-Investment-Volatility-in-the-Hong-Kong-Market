@@ -20,7 +20,7 @@ Data for 150 companies on the Hong Kong Stock Exchange was collected, focusing o
 
 ## Key Findings
 
-### Regulatory changes have positively influenced ESG performance among companies in Hong Kong.
+### 1. Regulatory changes have positively influenced ESG performance among companies in Hong Kong.
 
 <div align="center">
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
