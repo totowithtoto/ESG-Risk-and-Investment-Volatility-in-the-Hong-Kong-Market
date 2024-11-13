@@ -18,7 +18,9 @@ Data for 150 companies on the Hong Kong Stock Exchange was collected, focusing o
 ### ESG Risk Scores: Sourced from Morningstar, reflecting a company's ESG risk exposure and management effectiveness.
 ### Control Variables: Includes leverage (total debt/invested capital), profitability (return on invested capital), and company size (number of employees).
 
-## Data Analysis and Discussion
+## Key Findings
+
+### Regulatory changes have positively influenced ESG performance among companies in Hong Kong.
 
 <div align="center">
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
