@@ -24,8 +24,6 @@ Data for 150 companies on the Hong Kong Stock Exchange was collected, focusing o
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
 </div>
 
-![Sector Distribution](Figure%201/Sector_Distribution.png)
-
 Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities. A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
 ## Conclusion
