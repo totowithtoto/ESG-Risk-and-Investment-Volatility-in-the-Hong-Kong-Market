@@ -21,7 +21,7 @@ Data for 150 companies on the Hong Kong Stock Exchange was collected, focusing o
 ## Data Analysis and Discussion
 
 <div align="center">
-  <img src="figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
+  <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
 </div>
 
 ![Sector Distribution](Figure%201/Sector_Distribution.png)
