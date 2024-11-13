@@ -14,6 +14,10 @@ This study underscores the importance of sector-specific analyses and regulatory
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
 </div>
 
+<div align="center">
+  <img src="Figure%202/Sector_Average_ESG_Score.png" alt="Sector Average ESG Score" width="400"/>
+</div>
+
 Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities. A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
 ## Introduction
