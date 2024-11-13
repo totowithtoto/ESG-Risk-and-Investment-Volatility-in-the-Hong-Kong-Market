@@ -10,7 +10,7 @@ This study underscores the importance of sector-specific analyses and regulatory
 
 ### 1. Regulatory changes have positively influenced ESG performance among companies in Hong Kong.
 
-### 2023 ESG performance Snapshot
+### <u>2023 ESG Performance Snapshot</u>
 
 <div align="center">
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
