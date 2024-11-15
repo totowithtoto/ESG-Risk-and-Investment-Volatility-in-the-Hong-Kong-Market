@@ -22,6 +22,10 @@ This study underscores the importance of sector-specific analyses and regulatory
 
 Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities. A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
+<div align="center">
+  <img src="Figure%203/Trends_in_ESG_Risk_Scores_from_2020_to_2023_in_HK.png" alt="Sector Average ESG Score" width="400"/>
+</div>
+
 ## Introduction
 The ESG investment market has seen significant growth, with a net inflow of US$29 billion in early 2023, representing 30% of total assets globally. ESG investing incorporates environmental, social, and governance factors to enhance investment decisions, recognizing their influence on a company's risk and opportunities. While ESG integration aims to manage investment risks and improve returns, the relationship between ESG performance and corporate financial outcomes can be complex.
 
