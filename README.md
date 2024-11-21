@@ -34,14 +34,16 @@ Our analysis indicates that non-service sectors have higher ESG risk scores, par
 
 <div style="text-align: center;">
   <table style="margin: auto;">
-    <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2020).png" alt="Image 1" width="300"/></td>
-    <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2021).png" alt="Image 2" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2022).png" width="300"/></td>
-    <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2023).png" width="300"/></td>
-  </tr>
-</table>
+    <tr>
+      <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2020).png" alt="Image 1" width="400"/></td>
+      <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2021).png" alt="Image 2" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2022).png" alt="Image 3" width="400"/></td>
+      <td><img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2023).png" alt="Image 4" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Introduction
 The ESG investment market has seen significant growth, with a net inflow of US$29 billion in early 2023, representing 30% of total assets globally. ESG investing incorporates environmental, social, and governance factors to enhance investment decisions, recognizing their influence on a company's risk and opportunities. While ESG integration aims to manage investment risks and improve returns, the relationship between ESG performance and corporate financial outcomes can be complex.
