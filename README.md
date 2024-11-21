@@ -26,6 +26,10 @@ Our analysis indicates that non-service sectors have higher ESG risk scores, par
   <img src="Figure%203/Trends in ESG Risk Scores from 2020 to 2023 in HK.png" alt="Trends ESG Risk Score" width="400"/>
 </div>
 
+<div align="center">
+  <img src="Figure%204/HK_Daily_Return_Volatility_2023.png" alt="Trends ESG Risk Score" width="400"/>
+</div>
+
 ## Introduction
 The ESG investment market has seen significant growth, with a net inflow of US$29 billion in early 2023, representing 30% of total assets globally. ESG investing incorporates environmental, social, and governance factors to enhance investment decisions, recognizing their influence on a company's risk and opportunities. While ESG integration aims to manage investment risks and improve returns, the relationship between ESG performance and corporate financial outcomes can be complex.
 
