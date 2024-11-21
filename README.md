@@ -1,5 +1,6 @@
 # ESG Risk and Investment Volatility in the Hong Kong Market
 ## Abstract
+
 This study examines the relationship between Environmental, Social, and Governance (ESG) performance and stock price volatility in the Hong Kong market from 2020 to 2023. 
 
 We analyze companies listed on the Hong Kong Stock Exchange, using Morningstar ESG risk scores as the independent variable and share price volatility as the dependent variable. Our multilinear regression analysis reveals substantial correlations (R² > 40%) across sectors, particularly in Consumer Defensive, Communication Services, and Utilities sector. Recent regulatory changes have positively influenced ESG performance amongst Hong Kong listed companies. 
@@ -9,6 +10,8 @@ This study underscores the importance of sector-specific analyses and regulatory
 ## Key Findings
 
 ### 1. ESG risk scores are higher in non-service sectors, environmental risk scores contribute the most.
+
+Analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities, reflecting their vulnerability to environmental regulations. 
 
 <div align="center">
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
@@ -20,9 +23,8 @@ This study underscores the importance of sector-specific analyses and regulatory
 
 ### 2. New regulation sees improved ESG performance in Hong Kong.
 
-Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities,reflect their vulnerability to environmental regulations A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. 
+A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. 
 
-We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
 <div align="center">
   <img src="Figure%203/Trends in ESG Risk Scores from 2020 to 2023 in HK.png" alt="Trends ESG Risk Score" width="400"/>
@@ -32,7 +34,7 @@ We observe that while higher ESG risk scores correlate with increased volatility
   <img src="Figure%204/HK_Daily_Return_Volatility_2023.png" alt="Trends ESG Risk Score" width="400"/>
 </div>
 
-Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities. A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
+We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
 <table style="margin: auto; border: none;">
   <tr>
