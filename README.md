@@ -30,15 +30,14 @@ A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG mana
   <img src="Figure%203/Trends in ESG Risk Scores from 2020 to 2023 in HK.png" alt="Trends ESG Risk Score" width="400"/>
 </div>
 
-A snapshot of the most recent share prices reveals that most sectors exhibit similar levels of volatility.
+A snapshot of the most recent share prices reveals that most sectors exhibit differing levels of volatility. . Healthcare and Financial Services sectors show relatively low volatility, The Technology and Consumer Cyclical sectors demonstrate the highest volatility ranges, suggesting that these sectors are more sensitive to external factors such as market trends, innovation, and changes in consumer demand.
 
 <div align="center">
   <img src="Figure%204/HK_Daily_Return_Volatility_2023.png" alt="Trends ESG Risk Score" width="400"/>
 </div>
 
-We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
-### Observation 3: ESG risk score is a significant predictor of share price volatility of the Consumer Defensive, Communication Services and Utilities sectors.
+### Observation 3: ESG risk score is a statistically significant predictor of share price volatility of the Consumer Defensive, Communication Services and Utilities sector.
 
 <table style="margin: auto; border: none;">
   <tr>
@@ -59,21 +58,19 @@ We observe that while higher ESG risk scores correlate with increased volatility
   </tr>
 </table>
 
-Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities. A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
+The multilinear regression analysis conducted reveals mixed insights into the relationship between ESG risk scores and share price volatility across sectors. Notably, the Utilities sector shows a consistent positive correlation, while the Consumer Defensive sector exhibits a negative correlation, both with high statistical significance (p<0.05). Multilinear regression analysis identifies seven sectors with significant results, highlighting that the Consumer Defensive, Communication Services, and Utilities sectors are key areas of focus, exhibiting R² values greater than 40%.
+
+The findings support the hypothesis that companies with lower ESG risk scores, indicating better ESG performance, tend to have stronger internal controls, leading to reduced stock price volatility and greater investor confidence. However, some unexpected negative correlations suggest that increased ESG risk scores may coincide with lower volatility, potentially due to market inefficiencies or risk aversion among investors.
+
+Overall, while ESG practices can enhance financial outcomes, their effects vary by industry, necessitating a deeper examination of company-specific sustainability actions for insights into operational efficiency and risk management.
 
 <div align="center">
   <img src="Figure%206/Multi Linear Model Stats Result.png" alt="Multi Linear Model Stats Result" width="800"/>
 </div>
 
-
-## Introduction
-The ESG investment market has seen significant growth, with a net inflow of US$29 billion in early 2023, representing 30% of total assets globally. ESG investing incorporates environmental, social, and governance factors to enhance investment decisions, recognizing their influence on a company's risk and opportunities. While ESG integration aims to manage investment risks and improve returns, the relationship between ESG performance and corporate financial outcomes can be complex.
-
-## Hypothesis and Methodology
-We hypothesize that higher ESG performance in the Hong Kong market correlates with better control over investment risks. This study utilizes multilinear regression to analyze the relationship between ESG risk scores and share price volatility, considering control variables such as profitability, financial leverage, and company size. We also investigate sector-specific sensitivities to ESG factors and regulatory influences on ESG performance.
-
 ## Data Collection
-Data for 150 companies on the Hong Kong Stock Exchange was collected, focusing on:
+Data for 150 companies on the Hong Kong Stock Exchange was collected from yfinance api through python, data compiled and cleaned using pandas library, while all graphs created using matplotlib, seaborn library. Focusing on:
+
 ### Price Volatility: Measured as the standard deviation of daily stock price changes.
 ### ESG Risk Scores: Sourced from Morningstar, reflecting a company's ESG risk exposure and management effectiveness.
 ### Control Variables: Includes leverage (total debt/invested capital), profitability (return on invested capital), and company size (number of employees).
