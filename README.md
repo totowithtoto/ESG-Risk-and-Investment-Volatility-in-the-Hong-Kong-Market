@@ -27,7 +27,7 @@ Our analysis indicates that non-service sectors have higher ESG risk scores, par
 </div>
 
 <div align="center">
-  <img src="Figure%204:%20Violin%20Plot%20HK%20Daily%20Return%20Volatility%202023/HK_Daily_Return_Volatility_2023.png" alt="Trends ESG Risk Score" width="400"/>
+  <img src="Figure%204/HK_Daily_Return_Volatility_2023.png" alt="Trends ESG Risk Score" width="400"/>
 </div>
 
 ## Introduction
