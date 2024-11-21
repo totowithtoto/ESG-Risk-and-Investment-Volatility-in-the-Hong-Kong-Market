@@ -1,0 +1,151 @@
+Ticker,Sector,Industry,Number of Employees
+0001.HK,Industrials,Conglomerates,300000
+0002.HK,Utilities,Utilities - Regulated Electric,8159
+0003.HK,Utilities,Utilities - Regulated Gas,56444
+0004.HK,Real Estate,Real Estate - Development,6400
+0005.HK,Financial Services,Banks - Diversified,213978
+0006.HK,Utilities,Utilities - Independent Power Producers,13
+0010.HK,Real Estate,Real Estate Services,4141
+0011.HK,Financial Services,Banks - Regional,8396
+0012.HK,Real Estate,Real Estate - Diversified,9835
+0016.HK,Real Estate,Real Estate - Development,40000
+0017.HK,Real Estate,Real Estate - Diversified,13000
+0019.HK,Industrials,Conglomerates,78000
+0020.HK,Technology,Software - Application,4531
+0023.HK,Financial Services,Banks - Regional,8140
+0027.HK,Consumer Cyclical,Resorts & Casinos,20400
+0066.HK,Industrials,Railroads,33405
+0083.HK,Real Estate,Real Estate - Development,9700
+0101.HK,Real Estate,Real Estate Services,4059
+0135.HK,Energy,Oil & Gas Refining & Marketing,27138
+0144.HK,Industrials,Marine Shipping,7749
+0151.HK,Consumer Defensive,Packaged Foods,39887
+0168.HK,Consumer Defensive,Beverages - Brewers,30687
+0175.HK,Consumer Cyclical,Auto Manufacturers,60000
+0177.HK,Industrials,Infrastructure Operations,4754
+0257.HK,Industrials,Waste Management,12000
+0267.HK,Industrials,Conglomerates,188862
+0270.HK,Utilities,Utilities - Regulated Water,11495
+0288.HK,Consumer Defensive,Packaged Foods,101000
+0291.HK,Consumer Defensive,Beverages - Brewers,27232
+0293.HK,Industrials,Airlines,23800
+0317.HK,Industrials,Aerospace & Defense,6974
+0322.HK,Consumer Defensive,Packaged Foods,66807
+0338.HK,Energy,Oil & Gas Refining & Marketing,7526
+0347.HK,Basic Materials,Steel,26964
+0358.HK,Basic Materials,Copper,26066
+0371.HK,Utilities,Utilities - Regulated Water,76608
+0384.HK,Utilities,Utilities - Regulated Gas,74643
+0386.HK,Energy,Oil & Gas Integrated,368009
+0388.HK,Financial Services,Financial Data & Stock Exchanges,2419
+0390.HK,Industrials,Engineering & Construction,299652
+0392.HK,Industrials,Conglomerates,31000
+0489.HK,Consumer Cyclical,Auto Manufacturers,112706
+0525.HK,Industrials,Railroads,37906
+0551.HK,Consumer Cyclical,Footwear & Accessories,264700
+0656.HK,Industrials,Conglomerates,108000
+0659.HK,Industrials,Engineering & Construction,14500
+0669.HK,Industrials,Tools & Accessories,47224
+0670.HK,Industrials,Airlines,81781
+0688.HK,Real Estate,Real Estate - Development,3651
+0696.HK,Technology,Information Technology Services,6620
+0700.HK,Communication Services,Internet Content & Information,104787
+0728.HK,Communication Services,Telecom Services,278539
+0753.HK,Industrials,Airlines,102874
+0762.HK,Communication Services,Telecom Services,242891
+0763.HK,Technology,Communication Equipment,72093
+0836.HK,Utilities,Utilities - Independent Power Producers,22203
+0857.HK,Energy,Oil & Gas Integrated,375803
+0883.HK,Energy,Oil & Gas E&P,21786
+0902.HK,Utilities,Utilities - Independent Power Producers,57038
+0914.HK,Basic Materials,Building Materials,50769
+0916.HK,Utilities,Utilities - Renewable,8752
+0939.HK,Financial Services,Banks - Diversified,376871
+0941.HK,Communication Services,Telecom Services,451830
+0945.HK,Financial Services,Insurance - Life,38000
+0960.HK,Real Estate,Real Estate - Development,29116
+0966.HK,Financial Services,Insurance - Life,65378
+0981.HK,Technology,Semiconductors,20223
+0992.HK,Technology,Computer Hardware,69500
+0998.HK,Financial Services,Banks - Regional,66891
+1033.HK,Energy,Oil & Gas Drilling,63392
+1038.HK,Utilities,Utilities - Regulated Electric,2407
+1044.HK,Consumer Defensive,Household & Personal Products,23000
+1055.HK,Industrials,Airlines,99468
+1071.HK,Utilities,Utilities - Regulated Electric,24778
+1088.HK,Energy,Thermal Coal,83439
+1093.HK,Healthcare,Drug Manufacturers - General,23500
+1099.HK,Healthcare,Medical Distribution,115959
+1109.HK,Real Estate,Real Estate - Development,61658
+1113.HK,Real Estate,Real Estate - Development,57000
+1114.HK,Consumer Cyclical,Auto Manufacturers,1200
+1128.HK,Consumer Cyclical,Resorts & Casinos,11300
+1171.HK,Energy,Thermal Coal,79242
+1177.HK,Healthcare,Biotechnology,25806
+1186.HK,Industrials,Engineering & Construction,267587
+1193.HK,Utilities,Utilities - Regulated Gas,58608
+1211.HK,Consumer Cyclical,Auto Manufacturers,703500
+1288.HK,Financial Services,Banks - Diversified,451003
+1299.HK,Financial Services,Insurance - Life,25279
+1336.HK,Financial Services,Insurance - Life,30662
+1339.HK,Financial Services,Insurance - Property & Casualty,175881
+1359.HK,Financial Services,Asset Management,13908
+1398.HK,Financial Services,Banks - Diversified,419252
+1576.HK,Industrials,Infrastructure Operations,696
+1618.HK,Industrials,Engineering & Construction,99300
+1766.HK,Industrials,Railroads,154292
+1800.HK,Industrials,Engineering & Construction,144813
+1816.HK,Utilities,Utilities - Independent Power Producers,19038
+1898.HK,Energy,Thermal Coal,47122
+1919.HK,Industrials,Marine Shipping,31654
+1928.HK,Consumer Cyclical,Resorts & Casinos,25906
+1972.HK,Real Estate,Real Estate Services,5700
+1988.HK,Financial Services,Banks - Regional,63742
+2018.HK,Technology,Communication Equipment,29922
+2020.HK,Consumer Cyclical,Leisure,60500
+2039.HK,Industrials,Metal Fabrication,18308
+2066.HK,Financial Services,Banks - Regional,8574
+2196.HK,Healthcare,Drug Manufacturers - Specialty & Generic,40370
+2202.HK,Real Estate,Real Estate - Development,131097
+2238.HK,Consumer Cyclical,Auto Manufacturers,96825
+2282.HK,Consumer Cyclical,Resorts & Casinos,11786
+2313.HK,Consumer Cyclical,Textile Manufacturing,92030
+2318.HK,Financial Services,Insurance - Life,288751
+2319.HK,Consumer Defensive,Packaged Foods,46064
+2328.HK,Financial Services,Insurance - Property & Casualty,164653
+2333.HK,Consumer Cyclical,Auto Manufacturers,82439
+2338.HK,Consumer Cyclical,Auto Manufacturers,89162
+2378.HK,Financial Services,Insurance - Life,15030
+2388.HK,Financial Services,Banks - Regional,14916
+2600.HK,Basic Materials,Aluminum,64504
+2601.HK,Financial Services,Insurance - Life,98732
+2607.HK,Healthcare,Medical Distribution,48164
+2628.HK,Financial Services,Insurance - Life,100000
+2638.HK,Utilities,Utilities - Regulated Electric,1657
+2688.HK,Utilities,Utilities - Regulated Gas,34907
+2689.HK,Basic Materials,Paper & Paper Products,23079
+2727.HK,Industrials,Specialty Industrial Machinery,42190
+2799.HK,Financial Services,Asset Management,5080
+2866.HK,Industrials,Aerospace & Defense,11261
+2883.HK,Energy,Oil & Gas Equipment & Services,15472
+2888.HK,Financial Services,Banks - Diversified,83446
+2899.HK,Basic Materials,Gold,55239
+3311.HK,Industrials,Engineering & Construction,16373
+3328.HK,Financial Services,Banks - Diversified,94275
+3618.HK,Financial Services,Banks - Regional,15017
+3898.HK,Industrials,Railroads,8362
+3968.HK,Financial Services,Banks - Regional,116529
+3988.HK,Financial Services,Banks - Diversified,306931
+6030.HK,Financial Services,Capital Markets,26822
+6808.HK,Consumer Cyclical,Department Stores,86226
+6818.HK,Financial Services,Banks - Regional,48428
+6823.HK,Communication Services,Telecom Services,13400
+6837.HK,Financial Services,Capital Markets,13637
+6881.HK,Financial Services,Capital Markets,14030
+6886.HK,Financial Services,Capital Markets,16658
+9618.HK,Consumer Cyclical,Internet Retail,517124
+9888.HK,Communication Services,Internet Content & Information,39800
+9901.HK,Consumer Defensive,Education & Training Services,55506
+9961.HK,Consumer Cyclical,Travel Services,36249
+9988.HK,Consumer Cyclical,Internet Retail,204891
+9999.HK,Communication Services,Electronic Gaming & Multimedia,29128
