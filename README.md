@@ -8,7 +8,7 @@ This study underscores the importance of sector-specific analyses and regulatory
 
 ## Key Findings
 
-### 1. Regulatory changes have positively influenced ESG performance among companies in Hong Kong.
+### 1. ESG risk scores are higher in non-service sectors, environmental risk scores contribute the most.
 
 <h3 style="text-align: center;"><strong>2023 ESG Performance Snapshot</strong></h3>
 
@@ -20,7 +20,11 @@ This study underscores the importance of sector-specific analyses and regulatory
   <img src="Figure%202/Sector_Average_ESG_Score.png" alt="Sector Average ESG Score" width="400"/>
 </div>
 
-Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities. A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
+### 2. New regulation sees improved ESG performance in Hong Kong.
+
+Our analysis indicates that non-service sectors have higher ESG risk scores, particularly in Energy and Utilities,reflect their vulnerability to environmental regulations A downward trend in ESG risk scores from 2020 to 2023 suggests improved ESG management in response to regulatory changes. 
+
+We observe that while higher ESG risk scores correlate with increased volatility in some sectors, others, like Consumer Defensive, exhibit a negative correlation, indicating a complex relationship.
 
 <div align="center">
   <img src="Figure%203/Trends in ESG Risk Scores from 2020 to 2023 in HK.png" alt="Trends ESG Risk Score" width="400"/>
