@@ -35,18 +35,18 @@ Our analysis indicates that non-service sectors have higher ESG risk scores, par
 <table style="margin: auto; border: none;">
   <tr>
     <td style="text-align: center;">
-      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2020).png" alt="Image 1" width="400"/>
+      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2020).png" alt="Image 1" width="500"/>
     </td>
     <td style="text-align: center;">
-      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2021).png" alt="Image 2" width="400"/>
+      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2021).png" alt="Image 2" width="500"/>
     </td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2022).png" alt="Image 3" width="400"/>
+      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2022).png" alt="Image 3" width="500"/>
     </td>
     <td style="text-align: center;">
-      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2023).png" alt="Image 4" width="400"/>
+      <img src="Figure%205/Correlation coefficient Industry to ESG Risk Score(2023).png" alt="Image 4" width="500"/>
     </td>
   </tr>
 </table>
