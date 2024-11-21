@@ -3,6 +3,8 @@
 
 This study examines the relationship between Environmental, Social, and Governance (ESG) performance and stock price volatility in the Hong Kong market from 2020 to 2023. 
 
+Leveraging Python for data collection and analysis, we utilized the Yahoo Finance API to gather stock price data and Morningstar ESG risk scores. Data cleaning techniques, including handling missing values and outlier detection, were applied using Pandas for efficient data manipulation and organization.
+
 We analyze companies listed on the Hong Kong Stock Exchange, using Morningstar ESG risk scores as the independent variable and share price volatility as the dependent variable. Our multilinear regression analysis reveals substantial correlations (R² > 40%) across sectors, particularly in Consumer Defensive, Communication Services, and Utilities sector. Recent regulatory changes have positively influenced ESG performance amongst Hong Kong listed companies. 
 
 This study underscores the importance of sector-specific analyses and regulatory impacts, providing insights for policymakers and corporations in integrating ESG considerations into financial decision-making.
