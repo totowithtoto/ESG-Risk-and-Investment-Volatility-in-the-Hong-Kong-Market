@@ -10,8 +10,6 @@ This study underscores the importance of sector-specific analyses and regulatory
 
 ### 1. ESG risk scores are higher in non-service sectors, environmental risk scores contribute the most.
 
-<h3 style="text-align: center;"><strong>2023 ESG Performance Snapshot</strong></h3>
-
 <div align="center">
   <img src="Figure%201/Sector_Distribution.png" alt="Sector Distribution" width="400"/>
 </div>
